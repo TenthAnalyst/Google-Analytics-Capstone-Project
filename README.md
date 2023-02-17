@@ -1,6 +1,6 @@
 # Google Analytics Capstone Project
 
-**Date:** February 17th, 2023
+**Date:** February 17th, 2023</br>
 **Author:** James Harling
 
 ### Description
